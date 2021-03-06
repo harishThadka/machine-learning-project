@@ -1,6 +1,9 @@
 # machine-learning-project
 Building a machine learning Project
 
+### main references:
+- https://github.com/k8xu/movie-rating-prediction/blob/master/Prediction_of_Movie_Ratings_Among_Young_Adults.ipynb
+- https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset?select=IMDb+ratings.csv
 ### References:
 - https://www.kaggle.com/ahmedtawfeek604/analyze-and-cluster-movies-over-time
 - https://www.kaggle.com/danielgrijalvas/movies?select=movies.csv
