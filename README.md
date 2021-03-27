@@ -14,3 +14,7 @@ Building a machine learning Project
 - charan: https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 - https://www.kaggle.com/hankarmostafa/building-a-simple-movie-recommendation-system
 - https://www.kaggle.com/hankarmostafa/building-a-simple-movie-recommendation-system
+
+## Project references:
+- https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+- https://github.com/k8xu/movie-rating-prediction/blob/master/Prediction_of_Movie_Ratings_Among_Young_Adults.ipynb
